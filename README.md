@@ -62,4 +62,4 @@ LexiScan/
   - Average collision count
   - Distribution across hash table buckets
 - The most performant function (i.e., least collisions) is set as the default.
-- All pseudocode, performance stats, and analysis are available in the accompanying `Documentation.pdf`.
+- All pseudocode, performance stats, and analysis are available in the accompanying `Hash Function Analysis Report.pdf`.
